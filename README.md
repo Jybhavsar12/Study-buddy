@@ -7,7 +7,7 @@ A Next.js application that connects students with perfect study partners through
 - **[Jybhavsar12]** - [Jybhavsar12](https://github.com/Jybhavsar12) - Project Lead & Full Stack
 - **[KirtanVaghela19]** - [KirtanVaghela19](https://github.com/KirtanVaghela19) - Frontend & UI/UX
 - **[Klotey-1313]** - [Klotey-1313](https://github.com/Klotey-1313) - Backend & Database
-- **[Member 4 Name]** - [@member4username](https://github.com/member4username) - DevOps & Testing
+- **[Navprime1]** - [Navprime1](https://github.com/Navprime1) - DevOps & Testing
 
 ## 🚀 Features
 
