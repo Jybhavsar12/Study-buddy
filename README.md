@@ -3,11 +3,10 @@
 A Next.js application that connects students with perfect study partners through AI-powered matching, collaborative tools, and seamless session scheduling.
 
 ## 👥 Team Members
-
-- **[Jybhavsar12]** - [Jybhavsar12](https://github.com/Jybhavsar12) - Project Lead & Full Stack
-- **[KirtanVaghela19]** - [KirtanVaghela19](https://github.com/KirtanVaghela19) - Frontend & UI/UX
-- **[Klotey-1313]** - [Klotey-1313](https://github.com/Klotey-1313) - Backend & Database
-- **[Navprime1]** - [Navprime1](https://github.com/Navprime1) - DevOps & Testing
+- **[Klotey-1313]** - [Klotey-1313](https://github.com/Klotey-1313) -  Project Lead & Full Stack 
+- **[Jybhavsar12]** - [Jybhavsar12](https://github.com/Jybhavsar12) - Backend & API Integration
+- **[KirtanVaghela19]** - [KirtanVaghela19](https://github.com/KirtanVaghela19) - State Managment & Logic 
+- **[Navprime1]** - [Navprime1](https://github.com/Navprime1) - Frontend & UI/UX  
 
 ## 🚀 Features
 
