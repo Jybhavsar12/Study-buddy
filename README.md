@@ -227,10 +227,12 @@ Study Buddy is a collaborative learning platform that connects students with stu
 - **Dark Mode**: System preference detection with manual toggle
 - **Responsive Design**: Mobile-first approach with breakpoint utilities
 - **Glass Morphism**: Modern UI effects with backdrop blur
-
+--**React bits** : Added react bits to coupe up with the frontend
+  
 ## Key Features Implemented
 1. Smart partner matching interface
 2. Study session scheduling
 3. Collaborative tools (flashcards, notes)
 4. User authentication flow
 5. Responsive design across all devices
+
