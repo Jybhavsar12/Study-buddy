@@ -1,4 +1,6 @@
 # Study Buddy - Advanced Next.js Learning Platform
+![answer 2025-08-13 at 9 39 38 PM](https://github.com/user-attachments/assets/5523dc7a-36f4-498d-82e1-29edd94a0f51)
+
 
 A collaborative study platform built with Next.js 15, featuring real-time collaboration tools, smart partner matching, and comprehensive study management.
 
