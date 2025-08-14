@@ -14,6 +14,7 @@ interface Bit {
   opacity: number
 }
 
+
 export function ReactBits() {
   const [bits, setBits] = useState<Bit[]>([])
 
